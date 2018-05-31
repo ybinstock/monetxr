@@ -1,0 +1,598 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 256,
+      "max": [
+        7.9999997979030013e-05,
+        7.0469098091125488,
+        2.0810298919677734
+      ],
+      "min": [
+        -3.0000801086425781,
+        -0.25990000367164612,
+        0.013170000165700912
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3072,
+      "componentType": 5126,
+      "count": 256,
+      "max": [
+        0.57840198278427124,
+        0.68401139974594116,
+        0.6840551495552063
+      ],
+      "min": [
+        -0.57840198278427124,
+        -0.68403655290603638,
+        -0.6840551495552063
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1152,
+      "max": [
+        255
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6144,
+      "componentType": 5126,
+      "count": 136,
+      "max": [
+        0.20001000165939331,
+        7.2391300201416016,
+        0.57406997680664062
+      ],
+      "min": [
+        -3.2000100612640381,
+        -0.23857000470161438,
+        -0.075199998915195465
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7776,
+      "componentType": 5126,
+      "count": 136,
+      "max": [
+        0.71683418750762939,
+        0.6637272834777832,
+        0.71644467115402222
+      ],
+      "min": [
+        -0.71683418750762939,
+        -0.6637272834777832,
+        -0.69779634475708008
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4608,
+      "componentType": 5125,
+      "count": 792,
+      "max": [
+        135
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9408,
+      "componentType": 5126,
+      "count": 128,
+      "max": [
+        4.9999998736893758e-05,
+        7.000999927520752,
+        0.57411998510360718
+      ],
+      "min": [
+        -2.9999499320983887,
+        -4.9999998736893758e-05,
+        -0.12898999452590942
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10944,
+      "componentType": 5126,
+      "count": 128,
+      "max": [
+        0.57946574687957764,
+        0.68370866775512695,
+        0.68372625112533569
+      ],
+      "min": [
+        -0.57946574687957764,
+        -0.68370866775512695,
+        -0.68377381563186646
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 7776,
+      "componentType": 5125,
+      "count": 576,
+      "max": [
+        127
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12480,
+      "componentType": 5126,
+      "count": 136,
+      "max": [
+        0.20001000165939331,
+        7.0007801055908203,
+        0.57409000396728516
+      ],
+      "min": [
+        -3.2000100612640381,
+        -0.00020999999833293259,
+        -0.49382999539375305
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 14112,
+      "componentType": 5126,
+      "count": 136,
+      "max": [
+        0.71689832210540771,
+        0.66371262073516846,
+        0.71650385856628418
+      ],
+      "min": [
+        -0.71689832210540771,
+        -0.66371262073516846,
+        -0.69780153036117554
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10080,
+      "componentType": 5125,
+      "count": 792,
+      "max": [
+        135
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15744,
+      "componentType": 5126,
+      "count": 1664,
+      "max": [
+        0.0040000001899898052,
+        6.7631897926330566,
+        0.59946000576019287
+      ],
+      "min": [
+        -3.4040000438690186,
+        -0.032710000872612,
+        -0.0081799998879432678
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 35712,
+      "componentType": 5126,
+      "count": 1664,
+      "max": [
+        1,
+        0.92829447984695435,
+        0.9998818039894104
+      ],
+      "min": [
+        -1,
+        -0.94422674179077148,
+        -0.77623516321182251
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 13248,
+      "componentType": 5125,
+      "count": 6144,
+      "max": [
+        1663
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Erik Woods (https://sketchfab.com/erikwoods)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/83a9f39fd375476f95de84c89a019222",
+      "title": "BlenderTennis #1 : 1-erikwoods : bridge"
+    },
+    "generator": "Sketchfab-3.18.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 37824,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 55680,
+      "byteOffset": 37824,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 93504,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "bridge_boards",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3712376805,
+          0.2422811225,
+          0.052860646999999997,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "bridge_bolt",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "rail support_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "railing_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "walking_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "side_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "bolts_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        15
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "bridge"
+    },
+    {
+      "children": [
+        5,
+        7,
+        9,
+        11
+      ],
+      "name": "boards"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1.5,
+        -3.3825699999999999,
+        0.49423,
+        1
+      ],
+      "name": "rail support"
+    },
+    {
+      "mesh": 0,
+      "name": "rail support_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1.5,
+        -3.5,
+        2.0025999999999997,
+        1
+      ],
+      "name": "railing"
+    },
+    {
+      "mesh": 1,
+      "name": "railing_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1.5,
+        -3.5,
+        0.49394000000000005,
+        1
+      ],
+      "name": "walking"
+    },
+    {
+      "mesh": 2,
+      "name": "walking_0"
+    },
+    {
+      "children": [
+        12,
+        13
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1.5,
+        -3.5,
+        0.49394000000000005,
+        1
+      ],
+      "name": "side"
+    },
+    {
+      "mesh": 3,
+      "name": "side_0"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        -0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.20000000000000001,
+        0.14781000000000002,
+        -0.040000000000000008,
+        1
+      ],
+      "name": "bolts"
+    },
+    {
+      "mesh": 4,
+      "name": "bolts_0"
+    },
+    {
+      "children": [
+        16
+      ],
+      "name": "lighting"
+    },
+    {
+      "children": [
+        17
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        10,
+        1
+      ],
+      "name": "sun"
+    },
+    {
+      "name": "sun"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>MonetXR</title>
+  <meta name="description" content="MonetXR">
+  <script src="https://aframe.io/releases/0.8.0/aframe.min.js"></script>
+  <script src="https://cdn.rawgit.com/donmccurdy/aframe-extras/v3.10.0/dist/aframe-extras.min.js"></script>
+  <script src="app.js"></script>
+</head>
+<body>
+<a-scene>
+  <a-assets>
+    <img id="painting1" src="assets/paintings/painting1.jpg">
+    <img id="painting2" src="assets/paintings/painting2.jpg">
+    <img id="painting3" src="assets/paintings/painting3.jpg">
+    <img id="painting4" src="assets/paintings/painting4.jpg">
+    <img id="painting5" src="assets/paintings/painting5.jpg">
+    <img id="painting6" src="assets/paintings/painting6.jpg">
+    <img id="painting7" src="assets/paintings/painting7.jpg">
+
+    <a-asset-item id="bridge1" src="assets/models/bridge1.gltf"></a-asset-item>
+    <a-asset-item id="bridge2" src="assets/models/bridge2.gltf"></a-asset-item>
+
+  </a-assets>
+
+  <a-entity position="0 2 3">
+    <a-camera camera wasd-controls-enabled="false">
+      <a-cursor geometry="primitive: ring; radiusInner: 0.01; radiusOuter: 0.03;"
+                material="color: green; shader: flat;"></a-cursor>
+    </a-camera>
+  </a-entity>
+
+  <a-sky color="black"></a-sky>
+
+  <a-sound src="src: url(assets/audio/crickets.mp3)" autoplay="true" loop="true" position="0 0 0"></a-sound>
+  <a-sound src="src: url(assets/audio/stream.mp3)" autoplay="true" loop="true" position="0 0 0"></a-sound>
+  <a-sound src="src: url(assets/audio/summer.mp3)" autoplay="true" loop="true" position="0 0 0"></a-sound>
+
+  <a-image id="painting" src="painting1"> </a-image>
+
+  <a-entity gltf-model="#bridge1"></a-entity>
+
+  <a-ocean color="#92E2E2" width="25" depth="25" density="15" speed="2"></a-ocean>
+
+  <a-entity id="description"
+  position="0 0 -5"
+  rotation="0 0 0"
+  geometry="primitive: plane; width: 4; height: auto"
+  material="color: rgb(96, 143, 219); opacity: .5"
+  text="align: center; font: kelsonsans;
+  value: Woman with a Parasol - Madame Monet and Her Son, 1875"></a-entity>
+
+  <a-sphere color="yellow" id="next" radius=".1" next position="-.16 4.9 -3.5"></a-sphere>
+
+  <!-- do I need this for VR? -->
+  <a-entity class="instructions"
+    position="0 7 -2"
+    rotation="0 0 0"
+    geometry="primitive: plane; width: 4; height: 2"
+    material="color: rgb(96, 143, 219); opacity: .5"
+    text="align: center; font: kelsonsans; height: 3; line-height: 55;
+    value: Click the arrow icon to see the next painting."></a-entity>
+
+</a-scene>
+</body>
+</html>
